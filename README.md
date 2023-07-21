@@ -1,6 +1,6 @@
 # optimalcity-test
 
-## Project setup
+## Project setupp
 ```
 npm install
 ```
