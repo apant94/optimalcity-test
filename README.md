@@ -1,24 +1,29 @@
-# optimalcity-test
+# Тестовое в компанию OptimalCity
 
-## Project setupp
-```
+## Проект
+
+https://apant94.github.io/optimalcity-test/
+
+## Задача
+
+Необходимо сверстать приложение Vue для редактирования заданной структуры. Редактирование должно осуществляться в форме, также должен быть способ выбрать редактируемый элемент.
+
+## Недостатки решения
+
+1. Наличие мутации пропсов
+2. недостаточное дробление на компоненты
+
+## Необходимая доработка
+
+1. Валидация формы
+2. Более нативная для пользователя стилизация
+3. Рефакторинг кода с получением данных с сервера или выносом данных в utils
+
+## Стек
+
+Vue, JavaScript, HTML, CSS, BEM
+
+## Установка приложения
+
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
