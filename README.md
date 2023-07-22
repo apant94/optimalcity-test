@@ -11,7 +11,7 @@ https://apant94.github.io/optimalcity-test/
 ## Недостатки решения
 
 1. Наличие мутации пропсов
-2. недостаточное дробление на компоненты
+2. Недостаточное дробление на компоненты
 
 ## Необходимая доработка
 
@@ -21,7 +21,7 @@ https://apant94.github.io/optimalcity-test/
 
 ## Стек
 
-Vue, JavaScript, HTML, CSS, BEM
+Vue, JavaScript, HTML, SCSS, BEM
 
 ## Установка приложения
 
