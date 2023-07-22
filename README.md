@@ -26,4 +26,5 @@ Vue, JavaScript, HTML, CSS, BEM
 ## Установка приложения
 
 npm install
+
 npm run serve
