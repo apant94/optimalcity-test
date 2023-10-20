@@ -1,4 +1,5 @@
 # Тестовое в компанию OptimalCity
+<img width="1438" alt="Screenshot 2023-10-20 at 12 46 34" src="https://github.com/apant94/optimalcity-test/assets/103651974/5b4e1871-108b-41c6-a030-3756611078c6">
 
 ## Проект
 
